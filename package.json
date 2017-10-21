@@ -1,0 +1,28 @@
+{
+  "name": "ledsraspberrypi_nodejs_mysql",
+  "version": "1.0.0",
+  "description": "IoT, Turn ON/OFF leds on RaspberryPi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mysql2": "*",
+    "sequelize": "*",
+    "onoff": "*",
+    "request-ip": "*",
+    "hbs": "*",
+    "ipware": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VEnriquez89010/LedsRaspberryPi_Nodejs_Mysql.git"
+  },
+  "author": "Victor Enriquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VEnriquez89010/LedsRaspberryPi_Nodejs_Mysql/issues"
+  },
+  "homepage": "https://github.com/VEnriquez89010/LedsRaspberryPi_Nodejs_Mysql#readme"
+}
