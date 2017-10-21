@@ -9,7 +9,8 @@ mysql> create database led;
 npm install
 
 3.- Configure GPIO pins. Use GPIO17 and GPIO27:
-<img src="https://raw.githubusercontent.com/VEnriquez89010/LedsRaspberryPi_Nodejs_Mysql/master/GPIO.png" width="400" height="790">
+
+<img src="https://raw.githubusercontent.com/VEnriquez89010/LedsRaspberryPi_Nodejs_Mysql/master/GPIO.png" width="200" height="790">
 
 4.- Run: 
 npm test or node app.js
