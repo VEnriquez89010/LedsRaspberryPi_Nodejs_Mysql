@@ -6,7 +6,7 @@ if(mysql_host == undefined || mysql_host == ""){
 }
 var mysql_pass = process.env.MYSQLPASS;
 if(mysql_pass == undefined || mysql_host == ""){
-    mysql_pass = ''; //raspberry
+    mysql_pass = 'raspberry'; 
 }
 
 var sequelize = new Sequelize('led', 'root', mysql_pass, {
