@@ -2,11 +2,11 @@
 ON / OFF Leds RaspberryPi__Nodejs_Sequelize_Mysql
 
 
-1.- Create database on mysql named "led"
+1.- Create database on mysql named "led": 
 mysql> create database led;
 
-2.- Run command npm to install dependencies
+2.- Run command npm to install dependencies: 
 npm install
 
-3.- Run 
+3.- Run: 
 npm test or node app.js
