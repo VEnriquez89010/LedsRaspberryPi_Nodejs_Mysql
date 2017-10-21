@@ -8,5 +8,5 @@ mysql> create database led;
 2.- Run command npm to install dependencies
 npm install
 
-3.- Run app.js
-node app.js
+3.- Run 
+npm test or node app.js
